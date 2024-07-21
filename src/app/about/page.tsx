@@ -10,7 +10,7 @@ const About = () => {
         <div className={style.about_box}>
           <div className={style.about_img}>
             <img
-              src="/img/develielsilva.png"
+              src="/img/imgaboutelielsilva.png"
               alt="Eliel Silva software developer"
             />
           </div>

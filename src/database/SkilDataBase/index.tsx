@@ -1,6 +1,6 @@
 const dataSkill = [
   {
-    src: 'img/HTML5.png',
+    src: 'img/imgcardhtml5.png',
     alt: 'Imagem ilustrativa de HTML 5',
     title: 'HTML 5',
     p: 'São os blocos de construção básicos de um site, definindo a estrutura e o conteúdo de cada página. É como o esqueleto invisível que dá forma e organiza todo o conteúdo que você vê.',
@@ -8,7 +8,7 @@ const dataSkill = [
     txt_link: 'HTML 5',
   },
   {
-    src: 'img/CSS3.png',
+    src: 'img/imgcardcss3.png',
     alt: 'Imagem ilustrativa de CSS 3',
     title: 'CSS 3',
     p: 'Linguagem de estilo que permite controlar cores, fontes, tamanhos, espaçamentos, layouts e muito mais.',
@@ -16,7 +16,7 @@ const dataSkill = [
     txt_link: 'CSS 3',
   },
   {
-    src: 'img/javascript.png',
+    src: 'img/imgcardjavascript.png',
     alt: 'Imagem ilustrativa de JavaScript',
     title: 'JavaScript',
     p: 'Linguagem de programação, capaz de adicionar interatividade e dinamismo às páginas web e também é utilizada no desenvolvimento de jogos e aplicativos.',
@@ -24,7 +24,7 @@ const dataSkill = [
     txt_link: 'JavaScript',
   },
   {
-    src: 'img/typescript.png',
+    src: 'img/imgcardtypescript.png',
     alt: 'Imagem ilustrativa de TypeScript',
     title: 'TypeScript',
     p: ' Imagine o JavaScript que você conhece e adora, mas com a adição de tipos opcionais para tornar seu código mais robusto, seguro e fácil de manter.',
@@ -32,7 +32,7 @@ const dataSkill = [
     txt_link: 'TypeScript',
   },
   {
-    src: 'img/REACT.png',
+    src: 'img/imgcardreact.png',
     alt: 'Imagem ilustrativa de REACT',
     title: 'REACT',
     p: 'React é uma biblioteca JavaScript de código aberto criada pelo Facebook para construir interfaces web com eficiência.',
@@ -40,7 +40,7 @@ const dataSkill = [
     txt_link: 'REACT',
   },
   {
-    src: 'img/PHP.png',
+    src: 'img/imgcardphp.png',
     alt: 'Imagem ilustrativa de PHP',
     title: 'PHP',
     p: 'É uma linguagem de script, que permite criar sites e aplicativos web dinâmicos e interativos, a sintaxe é relativamente simples e intuitiva',
@@ -48,7 +48,7 @@ const dataSkill = [
     txt_link: 'PHP',
   },
   {
-    src: 'img/NODE.png',
+    src: 'img/imgcardnode.png',
     alt: 'Imagem ilustrativa de NODE',
     title: 'NODE',
     p: 'É um ambiente de execução de JavaScript voltado para o servidor. Permite executar código JavaScript fora do navegador, possibilitando a criação de servidores web robustos e escaláveis.',
@@ -56,7 +56,7 @@ const dataSkill = [
     txt_link: 'NODE',
   },
   {
-    src: 'img/PYTHON.png',
+    src: 'img/imgcardpython.png',
     alt: 'Imagem ilustrativa de PYTHON',
     title: 'PYTHON',
     p: 'É uma linguagem de programação de alto nível, interpretada, orientada a objetos e de tipagem dinâmica. Conhecida por sua simplicidade e clareza.',
@@ -64,7 +64,7 @@ const dataSkill = [
     txt_link: 'PYTHON',
   },
   {
-    src: 'img/GIT.png',
+    src: 'img/imgcardgit.png',
     alt: 'Imagem ilustrativa de GIT',
     title: 'GIT',
     p: 'É um sistema de controle de versão distribuído (DVCS) usado para acompanhar alterações em projetos de software. Imagine o Git como um guardião do tempo para seu código.',
@@ -72,7 +72,7 @@ const dataSkill = [
     txt_link: 'GIT',
   },
   {
-    src: 'img/ALGORITIMO.png',
+    src: 'img/imgcardalgoritimo.png',
     alt: 'Imagem ilustrativa de Algoritimo',
     title: 'ALGORITIMO',
     p: 'No mundo da computação e da programação, os algoritmos são como receitas passo a passo que definem como um problema deve ser solucionado.',
@@ -80,7 +80,7 @@ const dataSkill = [
     txt_link: 'ALGORITIMO',
   },
   {
-    src: 'img/MVC.png',
+    src: 'img/imgcardmvc.png',
     alt: 'Imagem ilustrativa de MVC',
     title: 'MVC',
     p: 'É um padrão de design de software utilizado para desenvolver interfaces web. Imagine o MVC como um trio inseparável que organiza as responsabilidades do seu projeto web.',
@@ -88,7 +88,7 @@ const dataSkill = [
     txt_link: 'MVC',
   },
   {
-    src: 'img/SQL.png',
+    src: 'img/imgcardsql.png',
     alt: 'Imagem ilustrativa de SQL',
     title: 'SQL',
     p: 'No mundo dos dados, o SQL (Structured Query Language) se destaca como a linguagem padrão para interagir com bancos de dados relacionais.',
@@ -96,7 +96,7 @@ const dataSkill = [
     txt_link: 'SQL',
   },
   {
-    src: 'img/mysql.png',
+    src: 'img/imgcardmysql.png',
     alt: 'Imagem ilustrativa de MySQL',
     title: 'MySQL',
     p: 'O MySQL se destaca como um dos sistemas de gerenciamento de bancos de dados relacionais (SGBD) mais populares do mundo.',
