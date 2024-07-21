@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 * {
   margin: 0;
   padding: 0;
@@ -7,10 +9,11 @@ html {
   font-size: 62.5%;
 }
 :root {
-  --primary_color: ;
-  --secondary_color: ;
-  --text_color: ;
-  --hover: ;
+  --primary_color: #ecedef;
+  --secondary_color: #c46e52;
+  --text_color: #035254;
+  --hover: #f3c38f;
+  --hover_text: #499c97;
 }
 
 body {
@@ -26,7 +29,7 @@ a {
   color: var(--text_color);
 }
 a:hover {
-  color: var(--secondary_color);
+  color: var(--hover_text);
 }
 li {
   list-style: none;
