@@ -11,6 +11,7 @@ interface TProjectProps {
   href_git: string;
   txt_site: string;
   txt_git: string;
+  status_deploy: boolean;
 }
 const CardProjects = ({
   src,
@@ -22,6 +23,7 @@ const CardProjects = ({
   href_git,
   txt_site,
   txt_git,
+  status_deploy,
 }: TProjectProps) => {
   return (
     <div className={style.project}>
