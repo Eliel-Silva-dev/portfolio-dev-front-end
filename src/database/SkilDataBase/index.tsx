@@ -1,4 +1,4 @@
-const DataSkill = [
+const dataSkill = [
   {
     src: 'img/HTML5.png',
     alt: 'Imagem ilustrativa de HTML 5',
@@ -105,4 +105,4 @@ const DataSkill = [
   },
 ];
 
-export default DataSkill;
+export default dataSkill;

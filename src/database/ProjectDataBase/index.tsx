@@ -1,4 +1,4 @@
-const DataProject = [
+const dataProject = [
   {
     src: '/img/cinepolis.jpg',
     alt: 'capa do site de filmes',
@@ -109,4 +109,4 @@ const DataProject = [
   },
 ];
 
-export default DataProject;
+export default dataProject;
