@@ -14,7 +14,7 @@ const Footer = () => {
   const year = date.getFullYear();
 
   useEffect(() => {
-    const lsContent = window.localStorage.getItem('lgpd');
+    const lsContent = window.localStorage.getItem('lgpdportfolio');
 
     if (!lsContent) {
       setLocalStorage(false);
@@ -23,7 +23,7 @@ const Footer = () => {
 
   return (
     <footer className={style.footer}>
-      <p>
+      <p className={style.redes}>
         <Link
           href="https://github.com/Eliel-Silva-dev"
           target="_blank"

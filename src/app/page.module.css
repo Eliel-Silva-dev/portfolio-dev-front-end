@@ -30,10 +30,9 @@
 }
 .home .home_text span {
   font-weight: 700;
-  color: var(--azulClaro);
 }
 
-@media screen and (max-width: 764px) {
+@media screen and (max-width: 768px) {
   .home .home_text h1 {
     font-size: 4rem;
   }

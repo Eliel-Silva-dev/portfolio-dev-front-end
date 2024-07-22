@@ -34,16 +34,18 @@ const CardProjects = ({
         <h3>{h3}</h3>
         <p>{p}</p>
         <div className={style.vermais}>
-          <Link href={href_site} rel="noreferrer noopener" target="_blank">
-            {txt_site}
-          </Link>
-          <Link
-            href={href_git}
-            target="_blank"
-            rel="external noreferrer noopener"
-          >
-            {txt_git}
-          </Link>
+          {status_deploy ? (
+            <>
+              <Link href={href_site} target="_blank">
+                {txt_site}
+              </Link>
+              <Link href={href_git} target="_blank">
+                {txt_git}
+              </Link>
+            </>
+          ) : (
+            <span>Projeto em desenvolvimento</span>
+          )}
         </div>
       </div>
     </div>

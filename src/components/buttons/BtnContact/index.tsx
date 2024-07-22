@@ -8,7 +8,7 @@ const BtnContact = () => {
 
     const mascara = document.querySelector('#mascara_form') as HTMLElement;
 
-    form.style.right = '50px';
+    form.style.right = '10px';
     mascara.style.visibility = 'visible';
   };
 

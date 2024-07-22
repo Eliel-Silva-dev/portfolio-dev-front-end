@@ -1,5 +1,5 @@
 .footer {
-  min-height: 100px;
+  min-height: 170px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -9,9 +9,25 @@
   height: 60px;
   position: relative;
 
+  .redes {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    font-size: 2rem;
+    gap: 15px;
+
+    a {
+      display: flex;
+      font-size: 1.8rem;
+      align-items: center;
+      flex-direction: row;
+      gap: 5px;
+    }
+  }
   a {
     text-decoration: none;
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     font-weight: 600;
     padding: 5px;
     color: var(--secondary_color);

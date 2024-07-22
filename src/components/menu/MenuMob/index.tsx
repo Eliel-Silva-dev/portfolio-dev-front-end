@@ -4,7 +4,7 @@ import { useEffect } from 'react';
 import style from './style.min.module.css';
 
 import Link from 'next/link';
-import PlusRec from '@/components/PlusRec';
+import BtnContact from '@/components/buttons/BtnContact';
 
 const MenuDesk = () => {
   const hamburguerActive = () => {
@@ -50,7 +50,7 @@ const MenuDesk = () => {
           <Link href={'/about'}>Sobre</Link>
         </li>
         <li id={style.plus}>
-          <PlusRec />
+          <BtnContact />
         </li>
       </ul>
     </div>
