@@ -88,6 +88,12 @@ E com as bibliotecas:
   - [Acessar repositório](https://github.com/Eliel-Silva-dev/filmesOnline-tmdb)
   - Página de filmes. Tenha acesso as informações do melhores filmes lançados, seu orçamento, receita e uma breve descrição.
 
+- Baldin Advogados (produção):
+
+  - [Visitar site](https://baldin-advogados.vercel.app/)
+  - [Acessar repositório](https://github.com/Eliel-Silva-dev/baldin-advogados)
+  - Site do escritório de advocacia Baldin, com informações sobre o escritório, as areas de atuação e contato com o escritório via formulário e WhatsApp.
+
 ### Em desenvolvimento:
 
 - Imobiliária Santos (desenvolvimento):
@@ -101,12 +107,6 @@ E com as bibliotecas:
   - [Visitar site]()
   - [Acessar repositório]()
   - Este projeto tem como objetivo fornecer serviços de locação de veículos de forma simples e fácil.
-
-- Advocacia (desenvolvimento):
-
-  - [Visitar site]()
-  - [Acessar repositório]()
-  - Este projeto tem como objetivo apresentar as áreas de atuação de forma simples e fornecedor os contatos do escritório de advocacia senhor lei.
 
 - Cadastros (desenvolvimento):
 
