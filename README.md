@@ -96,10 +96,10 @@ E com as bibliotecas:
 
 ### Em desenvolvimento:
 
-- Imobiliária Santos (desenvolvimento):
+- Zelo-imoveis (desenvolvimento):
 
-  - [Visitar site]()
-  - [Acessar repositório]()
+  - [Visitar site](https://zelo-imoveis.vercel.app/)
+  - [Acessar repositório](https://github.com/Eliel-Silva-dev/Zelo-imoveis)
   - Este projeto tem como objetivo apresentar, aos futuros proprietários, os serviços oferecidos pela imobiliária e também prestar suporte em cada uma das etapas necessárias de cada serviço.
 
 - Rentcars (desenvolvimento):
