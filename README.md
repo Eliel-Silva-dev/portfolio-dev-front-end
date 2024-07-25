@@ -102,11 +102,12 @@ E com as bibliotecas:
   - [Acessar repositório]()
   - Este projeto tem como objetivo apresentar, aos futuros proprietários, os serviços oferecidos pela imobiliária e também prestar suporte em cada uma das etapas necessárias de cada serviço.
 
-- Alucar (desenvolvimento):
+- Rentcars (desenvolvimento):
 
-  - [Visitar site]()
-  - [Acessar repositório]()
+  - [Visitar site](https://rentcars-automoveis.vercel.app/)
+  - [Acessar repositório](https://github.com/Eliel-Silva-dev/rentcars)
   - Este projeto tem como objetivo fornecer serviços de locação de veículos de forma simples e fácil.
+    A página recebe os dados dos locatários, via formulário, e envia para a equipe de vendas da Rentcars.
 
 - Cadastros (desenvolvimento):
 
