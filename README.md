@@ -117,8 +117,8 @@ E com as bibliotecas:
 
 - Login / Cadastro de Usuários (desenvolvimento):
 
-  - [Visitar site]()
-  - [Acessar repositório]()
+  - [Visitar site](https://pagina-login-sigma.vercel.app/)
+  - [Acessar repositório](https://github.com/Eliel-Silva-dev/pagina-login)
   - Página de cadastro de usuários e login de acesso.
 
 ## ✒️ Autor
