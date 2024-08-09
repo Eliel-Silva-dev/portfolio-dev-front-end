@@ -1,5 +1,17 @@
 const dataProject = [
   {
+    src: '/img/imgcardcadastro.jpg',
+    alt: 'Imagem ilustrativa da pagina de cadastro de cidades e pessoas',
+    title: 'Pagina de cadastro de cidades e pessoas',
+    h3: 'Cadastro',
+    p: 'Página desenvolvida para cadastrar informações sobre pessoas e cidades e possibilitar uma busca personalizada com paginação.',
+    href_site: 'https://cadastro-cidades-pessoas.vercel.app/',
+    txt_site: 'Site',
+    href_git: 'https://github.com/Eliel-Silva-dev/pagina-cadastro',
+    txt_git: 'Repositório',
+    status: true,
+  },
+  {
     src: '/img/imgcardcinepolis.jpg',
     alt: 'capa do site de filmes',
     title: 'cinepolis',
@@ -82,18 +94,6 @@ const dataProject = [
     href_git: 'https://github.com/Eliel-Silva-dev/pagina-login',
     txt_git: 'Repositório',
     status: true,
-  },
-  {
-    src: '/img/imgcardcadastro.png',
-    alt: 'Imagem ilustrativa da pagina de cadastro de cides e pessoas',
-    title: 'Pagina de cadastro de cidades e pessoas',
-    h3: 'Cadastro',
-    p: 'Página desenvolvida para cadastrar informações sobre pessoas e cidades e possibilitar uma busca personalizada com paginação.',
-    href_site: '/',
-    txt_site: 'Site',
-    href_git: '/',
-    txt_git: 'Repositório',
-    status: false,
   },
   {
     src: '/img/imgcarddefault.png',

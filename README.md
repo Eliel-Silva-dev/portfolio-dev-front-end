@@ -94,6 +94,12 @@ E com as bibliotecas:
   - [Acessar repositório](https://github.com/Eliel-Silva-dev/baldin-advogados)
   - Site do escritório de advocacia Baldin, com informações sobre o escritório, as areas de atuação e contato com o escritório via formulário e WhatsApp.
 
+- Cadastros (produção):
+
+  - [Visitar site](https://cadastro-cidades-pessoas.vercel.app/)
+  - [Acessar repositório](https://github.com/Eliel-Silva-dev/pagina-cadastro)
+  - Página de cadastro de pessoas e cidades com banco de dados e autenticação. Aprendi a fazer requisições e a manipular informações do banco de dados via API personalizada. Trabalhei com troca de temas e implementei uma autenticação de usuário simples.
+
 ### Em desenvolvimento:
 
 - Zelo-imoveis (desenvolvimento):
@@ -108,12 +114,6 @@ E com as bibliotecas:
   - [Acessar repositório](https://github.com/Eliel-Silva-dev/rentcars)
   - Este projeto tem como objetivo fornecer serviços de locação de veículos de forma simples e fácil.
     A página recebe os dados dos locatários, via formulário, e envia para a equipe de vendas da Rentcars.
-
-- Cadastros (desenvolvimento):
-
-  - [Visitar site]()
-  - [Acessar repositório]()
-  - Página de cadastro de pessoas e cidades com banco de dados e autenticação. Aprendi a fazer requisições e a manipular informações do banco de dados via API personalizada. Trabalhei com troca de temas e implementei uma autenticação de usuário simples.
 
 - Login / Cadastro de Usuários (desenvolvimento):
 
