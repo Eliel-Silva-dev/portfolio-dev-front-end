@@ -42,13 +42,8 @@ const Footer = () => {
       </p>
       <BtnContact />
       <p>
-        <a href="assets/Politica-de-Privacidade.pdf" target="_blank">
-          Politica de privacidade
-        </a>{' '}
-        -{' '}
-        <a href="assets/Termos-e-condicoes.pdf" target="_blank">
-          Termos de uso
-        </a>
+        <Link href={'/privacyPolicies'}>Politica de privacidade</Link> -{' '}
+        <Link href={'/termsUse'}>Termos de uso</Link>
       </p>
       <p>Desenvolvido por Hydrah Tecnologia</p>
       <p>&#9400; Todos os direitos reservados - {year}</p>
