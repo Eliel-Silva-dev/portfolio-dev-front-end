@@ -8,7 +8,7 @@ const Projects = () => {
   return (
     <main className={style.main_project}>
       <h2 className={style.title}>
-        {'<'}Projetos Desenvolvidos{'>'}
+        {'<'}Sites Desenvolvidos{'>'}
       </h2>
       <section className={style.projects} id={style.projects}>
         {projects_dev &&
