@@ -41,7 +41,10 @@ const MenuDesk = () => {
           <Link href={'/'}>Inicio</Link>
         </li>
         <li>
-          <Link href={'/projects'}>Projetos</Link>
+          <Link href={'/projects'}>Sites</Link>
+        </li>
+        <li>
+          <Link href={'/gameProjects'}>Jogos</Link>
         </li>
         <li>
           <Link href={'/abilities'}>Habilidades</Link>
