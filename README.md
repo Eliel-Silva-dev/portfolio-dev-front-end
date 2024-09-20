@@ -100,13 +100,25 @@ E com as bibliotecas:
   - [Acessar repositório](https://github.com/Eliel-Silva-dev/pagina-cadastro)
   - Página de cadastro de pessoas e cidades com banco de dados e autenticação. Aprendi a fazer requisições e a manipular informações do banco de dados via API personalizada. Trabalhei com troca de temas e implementei uma autenticação de usuário simples.
 
-### Em desenvolvimento:
-
-- Zelo-imoveis (desenvolvimento):
+- Zelo-imoveis (produção):
 
   - [Visitar site](https://zelo-imoveis.vercel.app/)
   - [Acessar repositório](https://github.com/Eliel-Silva-dev/Zelo-imoveis)
   - Este projeto tem como objetivo apresentar, aos futuros proprietários, os serviços oferecidos pela imobiliária e também prestar suporte em cada uma das etapas necessárias de cada serviço.
+
+- Login / Cadastro de Usuários (produção):
+
+  - [Visitar site](https://pagina-login-sigma.vercel.app/)
+  - [Acessar repositório](https://github.com/Eliel-Silva-dev/pagina-login)
+  - Página de cadastro de usuários e login de acesso.
+
+- Vinoka Atelie (produção):
+
+  - [Visitar site](https://vinoka-atelie.vercel.app/)
+  - [Acessar repositório](https://github.com/Eliel-Silva-dev/vinoka-atelie)
+  - Site do atelie Vinoka especializado em corte e costura situado na cidade de campinas.
+
+### Em desenvolvimento:
 
 - Rentcars (desenvolvimento):
 
@@ -114,12 +126,6 @@ E com as bibliotecas:
   - [Acessar repositório](https://github.com/Eliel-Silva-dev/rentcars)
   - Este projeto tem como objetivo fornecer serviços de locação de veículos de forma simples e fácil.
     A página recebe os dados dos locatários, via formulário, e envia para a equipe de vendas da Rentcars.
-
-- Login / Cadastro de Usuários (desenvolvimento):
-
-  - [Visitar site](https://pagina-login-sigma.vercel.app/)
-  - [Acessar repositório](https://github.com/Eliel-Silva-dev/pagina-login)
-  - Página de cadastro de usuários e login de acesso.
 
 ## ✒️ Autor
 
